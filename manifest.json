@@ -1,0 +1,24 @@
+{
+
+  "manifest_version": 2,
+  "name": "CountryRoads",
+  "version": "1.0",
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "country.roads@aaronshea.me"
+    }
+  },
+
+  "description": "Takes you 'home'. Or, in this case, it makes sure you always see LATEST tweets.",
+  "icons": {
+    "48": "icons/country-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/home"],
+      "js": ["country.js"]
+    }
+  ]
+}
