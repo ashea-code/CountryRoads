@@ -1,6 +1,6 @@
 # Country Roads
 
-This short and sweet Firefox extension basically just tries to see if Twitter is trying to make you look at HOME. And then is clicks the right buttons to take you back to the normal, in order timeline. 
+This short and sweet Firefox extension basically just tries to see if Twitter is trying to make you look at HOME. And then it clicks the right buttons to take you back to the normal, in order timeline. 
 
 
 Take me home...
