@@ -11,4 +11,4 @@ Country Roads...
 
 ## This is still in testing, so, no releases just yet, but here's a GIF of it working!
 
-[animated](https://i.ibb.co/wN51fZd/UA4g-Sp-DCXf.gif)
+![](https://i.ibb.co/wN51fZd/UA4g-Sp-DCXf.gif)
